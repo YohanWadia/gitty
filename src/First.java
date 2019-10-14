@@ -5,5 +5,8 @@ public class First {
         System.out.println("This one only for Win7");
 
         System.out.println("This make diff from SPECIAL edition");
+        System.out.println("Win7 Special Edition");
+        System.out.println("Win7 Special Edition");
+        //this was on the 2nd commit
     }
 }
