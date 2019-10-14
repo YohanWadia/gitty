@@ -3,13 +3,9 @@ public class First {
 
         System.out.println("From our great Comp");
 
-        //first time to master added ... after win7 branch
-
         System.out.println("This one only for Win7");
 
-        System.out.println("This make diff from SPECIAL edition");
-        System.out.println("Win7 Special Edition");
-        System.out.println("Win7 Special Edition");
-        //this was on the 2nd commit
+        System.out.println("This is all you need");
+        //X_X_X__X_X_X_X_X__X_X__X__X_X_X_X__X_X_X__X
     }
 }
