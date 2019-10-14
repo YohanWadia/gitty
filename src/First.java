@@ -3,5 +3,7 @@ public class First {
         System.out.println("From our great Comp");
 
         System.out.println("This one only for Win7");
+
+        System.out.println("This make diff from SPECIAL edition");
     }
 }
